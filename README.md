@@ -79,13 +79,28 @@ I'm an **SDET & QA Automation Lead** at **LTIMindtree**, working with **Microsof
 
 ### 🚀 Featured Project
 
+#### 🎭 [Playwright Automation Framework](https://github.com/yousufwaqar/playwright-automation-framework)
+
+Enterprise-grade E2E test automation framework with **Page Object Model**, **parallel execution across 3 browsers**, **bundled mock app**, **public demo-site test pack** (SauceDemo, The Internet, RESTful Booker), and **full CI/CD integration**.
+
 <p align="left">
   <a href="https://github.com/yousufwaqar/playwright-automation-framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousufwaqar&repo=playwright-automation-framework&theme=tokyonight&hide_border=true" alt="Playwright Automation Framework" />
+    <img src="https://img.shields.io/github/stars/yousufwaqar/playwright-automation-framework?style=social" alt="Stars" />
+  </a>
+  <a href="https://github.com/yousufwaqar/playwright-automation-framework/fork">
+    <img src="https://img.shields.io/github/forks/yousufwaqar/playwright-automation-framework?style=social" alt="Forks" />
+  </a>
+  <a href="https://github.com/yousufwaqar/playwright-automation-framework/issues">
+    <img src="https://img.shields.io/github/issues/yousufwaqar/playwright-automation-framework?color=blue" alt="Issues" />
+  </a>
+  <img src="https://img.shields.io/github/last-commit/yousufwaqar/playwright-automation-framework?color=blue" alt="Last commit" />
+  <img src="https://img.shields.io/github/languages/top/yousufwaqar/playwright-automation-framework?color=3178C6" alt="Top language" />
+  <a href="https://github.com/yousufwaqar/playwright-automation-framework/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/yousufwaqar/playwright-automation-framework?color=yellow" alt="License" />
   </a>
 </p>
 
-**[Playwright Automation Framework](https://github.com/yousufwaqar/playwright-automation-framework)** — Enterprise-grade E2E test automation framework with Page Object Model, parallel execution across 3 browsers, bundled mock app, public demo-site test pack, and full CI/CD integration. Built with Playwright + TypeScript.
+> **Tech Stack:** Playwright · TypeScript · Node.js 18+ · GitHub Actions · Azure DevOps
 
 ---
 
@@ -112,7 +127,7 @@ I'm an **SDET & QA Automation Lead** at **LTIMindtree**, working with **Microsof
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousufwaqar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yousufwaqar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -120,7 +135,11 @@ I'm an **SDET & QA Automation Lead** at **LTIMindtree**, working with **Microsof
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousufwaqar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousufwaqar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yousufwaqar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
