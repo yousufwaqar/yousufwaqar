@@ -102,6 +102,9 @@ Enterprise-grade E2E test automation framework with **Page Object Model**, **par
 
 > **Tech Stack:** Playwright · TypeScript · Node.js 18+ · GitHub Actions · Azure DevOps
 
+ 📋 **[See SKILLS.md →](https://github.com/yousufwaqar/playwright-automation-framework/blob/main/SKILLS.md)** — a guided tour of every
+ skill this repo demonstrates, with links to the exact files where each one lives.
+
 ---
 
 ### 🏆 Key Achievements
