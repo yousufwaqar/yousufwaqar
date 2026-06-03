@@ -32,8 +32,8 @@
  - ⚡ Integrated **500+ automated scenarios** into Azure DevOps CI/CD pipelines
  - 👥 Leading a distributed team of **15 QA engineers across 3 geographies**
  - 🌱 Currently learning **Allure reporting** and **AI-assisted test generation**
- - 🤖 Exploring **predictive test analytics**
- - 💬 Ask me about **Playwright**, **test architecture**, **CI/CD for QA**, or **scaling QA teams**
+ - 🤖 Exploring **AI-quality engineering** — LLM evaluation, RAG failure attribution, and safety/red-team testing
+ - 💬 Ask me about **Playwright**, **test architecture**, **CI/CD for QA**, **LLM evaluation**, or **scaling QA teams**
  - 📫 Reach me at **yousufwaqar7@gmail.com**
 
  ---
@@ -50,13 +50,15 @@
  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
  </p>
 
- **Test Automation**
+ **Test Automation & AI Quality**
 
  <p align="left">
  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
  <img src="https://img.shields.io/badge/axe--core-663399?style=for-the-badge&logo=accessibility&logoColor=white" alt="axe-core" />
  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6" />
+ <img src="https://img.shields.io/badge/LLM_Eval-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Evaluation" />
+ <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
  </p>
 
@@ -80,7 +82,7 @@
 
  ---
 
- ### 🚀 Featured Project
+ ### 🚀 Featured Projects
 
  #### 🎭 [Playwright Automation Framework](https://github.com/yousufwaqar/playwright-automation-framework)
 
@@ -114,6 +116,38 @@
   📋 **[See SKILLS.md →](https://github.com/yousufwaqar/playwright-automation-framework/blob/main/SKILLS.md)** — a guided tour of every
   skill this repo demonstrates, with links to the exact files where each one lives.
 
+ <br/>
+
+ #### 🤖 [LLM Eval Harness](https://github.com/yousufwaqar/llm-eval-harness)
+
+ A provider-agnostic **evaluation harness for LLM-powered features** — the quality
+ gate you put in front of a RAG assistant or Copilot-style feature. It combines a
+ versioned **golden dataset**, **deterministic + LLM-as-judge scoring**, **RAG
+ retrieval-vs-generation failure attribution**, a **red-team / safety suite** (PII,
+ prompt injection, toxicity, bias, tenant isolation), and a **severity-weighted
+ release gate** with **baseline drift tracking**. Runs **fully offline with zero
+ API keys** via a built-in stub model — and a deliberately broken model proves the
+ gate actually fails. Plug in **Ollama** or **Azure OpenAI** through one interface.
+
+ <p align="left">
+   <a href="https://github.com/yousufwaqar/llm-eval-harness/actions/workflows/eval-ci.yml">
+     <img src="https://github.com/yousufwaqar/llm-eval-harness/actions/workflows/eval-ci.yml/badge.svg" alt="eval-ci" />
+   </a>
+   <a href="https://github.com/yousufwaqar/llm-eval-harness">
+     <img src="https://img.shields.io/github/stars/yousufwaqar/llm-eval-harness?style=social" alt="Stars" />
+   </a>
+   <a href="https://github.com/yousufwaqar/llm-eval-harness/fork">
+     <img src="https://img.shields.io/github/forks/yousufwaqar/llm-eval-harness?style=social" alt="Forks" />
+   </a>
+   <img src="https://img.shields.io/github/last-commit/yousufwaqar/llm-eval-harness?color=blue" alt="Last commit" />
+   <img src="https://img.shields.io/github/languages/top/yousufwaqar/llm-eval-harness?color=3178C6" alt="Top language" />
+   <a href="https://github.com/yousufwaqar/llm-eval-harness/blob/main/LICENSE">
+     <img src="https://img.shields.io/github/license/yousufwaqar/llm-eval-harness?color=yellow" alt="License" />
+   </a>
+ </p>
+
+ > **Tech Stack:** TypeScript · Node.js · LLM-as-judge · RAG · Ollama · Azure OpenAI · GitHub Actions
+
  ---
 
  ### 🏆 Key Achievements
@@ -122,6 +156,7 @@
  - ✅ **Quality Impact:** Scaled automation coverage from 25% → 80% & reduced production defects by 35%
  - ✅ **CI/CD Velocity:** Improved CI/CD pipeline execution speed by 50% via parallel execution
  - ✅ **Quality Engineering Breadth:** Built accessibility (WCAG 2.1 AA), security, performance, and visual-regression modules behind a single composite Quality Gate
+ - ✅ **AI Quality Engineering:** Built an LLM evaluation harness with golden datasets, LLM-as-judge, RAG failure attribution, and a severity-weighted safety gate
  - ✅ **Team Leadership:** Mentored 15 QA engineers across 3 geographies
  - ✅ **Process Optimization:** Reduced new engineer onboarding time by 40%
  - ✅ **Delivery:** Enabled weekly production deployments for Microsoft Power BI SaaS
