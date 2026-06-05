@@ -1,6 +1,6 @@
 
  <h1 align="center">Hi 👋, I'm Yousuf Waqar</h1>
- <h3 align="center">SDET & QA Automation Lead | Playwright Expert | Azure DevOps | 11+ Years in Test Engineering</h3>
+ <h3 align="center">Senior SDET / AI Quality Engineer | Playwright + TypeScript | Azure DevOps | LLM Evaluation | QA Lead, 15 Engineers</h3>
 
  <p align="center">
    <a href="https://linkedin.com/in/yousuf-waqar/" target="_blank">
@@ -24,15 +24,14 @@
 
  ### About Me
 
- I'm an **SDET & QA Automation Lead** at **LTIMindtree**, working with **Microsoft Power BI SaaS** for 11+ years. I architect enterprise-grade test automationframeworks and lead distributed QA teams to deliver high-quality software at scale.
+ I'm a **Senior SDET** with **11+ years** embedded full time with **Microsoft product engineering teams** (currently **Power BI**) as an **LTIMindtree** engineer. I build Playwright and TypeScript test automation and help lead a distributed QA team, with a growing focus on **AI quality engineering**: evaluating LLM-powered features for answer quality and safety.
 
- - 🔭 Currently working on **Playwright + TypeScript Automation Frameworks**
- - 🏗️ Architected automation framework **adopted across 3 Microsoft QA teams**
- - 📈 Scaled automation coverage from **25% → 80%** and reduced production defects by **35%**
+ - 🔭 Currently working on **Playwright + TypeScript** automation and **AI quality engineering** for **Power BI**
+ - 🏗️ Built a Playwright framework now **adopted across 3 Microsoft QA teams**
+ - 📈 Helped scale automation coverage from **25% to 80%** and cut production defects by **35%**
  - ⚡ Integrated **500+ automated scenarios** into Azure DevOps CI/CD pipelines
- - 👥 Leading a distributed team of **15 QA engineers across 3 geographies**
- - 🌱 Currently learning **Allure reporting** and **AI-assisted test generation**
- - 🤖 Exploring **AI-quality engineering** — LLM evaluation, RAG failure attribution, and safety/red-team testing
+ - 👥 Help lead a **15-engineer QA team** across 3 geographies
+ - 🤖 Exploring **AI quality engineering**: LLM evaluation, RAG failure attribution, and safety / red-team testing
  - 💬 Ask me about **Playwright**, **test architecture**, **CI/CD for QA**, **LLM evaluation**, or **scaling QA teams**
  - 📫 Reach me at **yousufwaqar7@gmail.com**
 
@@ -86,13 +85,16 @@
 
  #### 🎭 [Playwright Automation Framework](https://github.com/yousufwaqar/playwright-automation-framework)
 
- A full-spectrum quality framework built on **Page Object Model** with **parallel
- execution across 3 browsers** and a **bundled mock app** for zero-dependency runs.
- Beyond functional E2E + API coverage, it adds **accessibility audits (axe-core,
- WCAG 2.0/2.1 A & AA)**, an **API & HTTP security suite**, **performance smoke +
- k6 load**, **visual regression**, **Docker / Docker Compose**, and a **composite
- Quality Gate CI** where every quality dimension is its own status check. Also
- ships a **public demo-site test pack** (SauceDemo, The Internet, RESTful Booker).
+ A full-spectrum quality framework built on **Page Object Model**, with a
+ **cross-browser CI job (Chromium, Firefox, WebKit)** and a **bundled mock app**
+ for zero-dependency runs. Beyond functional E2E + API coverage, it adds
+ **accessibility audits (axe-core, WCAG 2.0/2.1 A & AA)**, an **API & HTTP
+ security suite**, **performance smoke + k6 load**, **visual regression**,
+ **Docker / Docker Compose**, **ESLint + typecheck gates**, and a **composite
+ Quality Gate CI** where every quality dimension is its own status check. It also
+ ships an **AI agent toolkit** (AGENTS.md, path-scoped Copilot instructions,
+ prompt recipes, and copilot-setup-steps) so coding agents can extend it safely,
+ plus a **public demo-site test pack** (SauceDemo, The Internet, RESTful Booker).
 
  <p align="left">
    <a href="https://github.com/yousufwaqar/playwright-automation-framework">
@@ -111,22 +113,22 @@
    </a>
  </p>
 
- > **Tech Stack:** Playwright · TypeScript · axe-core · k6 · Docker · Node.js 18+ · GitHub Actions
+ > **Tech Stack:** Playwright · TypeScript · axe-core · k6 · Docker · Node.js 20+ · ESLint · GitHub Actions · Copilot
 
-  📋 **[See SKILLS.md →](https://github.com/yousufwaqar/playwright-automation-framework/blob/main/SKILLS.md)** — a guided tour of every
+  📋 **[See SKILLS.md →](https://github.com/yousufwaqar/playwright-automation-framework/blob/main/SKILLS.md)**: a guided tour of every
   skill this repo demonstrates, with links to the exact files where each one lives.
 
  <br/>
 
  #### 🤖 [LLM Eval Harness](https://github.com/yousufwaqar/llm-eval-harness)
 
- A provider-agnostic **evaluation harness for LLM-powered features** — the quality
+ A provider-agnostic **evaluation harness for LLM-powered features**: the quality
  gate you put in front of a RAG assistant or Copilot-style feature. It combines a
  versioned **golden dataset**, **deterministic + LLM-as-judge scoring**, **RAG
  retrieval-vs-generation failure attribution**, a **red-team / safety suite** (PII,
  prompt injection, toxicity, bias, tenant isolation), and a **severity-weighted
  release gate** with **baseline drift tracking**. Runs **fully offline with zero
- API keys** via a built-in stub model — and a deliberately broken model proves the
+ API keys** via a built-in stub model, and a deliberately broken model proves the
  gate actually fails. Plug in **Ollama** or **Azure OpenAI** through one interface.
 
  <p align="left">
@@ -165,27 +167,23 @@
 
  ### 📜 Certifications
 
- - 🏅 **Trusted Tester Certification** — Section 508 Accessibility Testing (DHS)
+ - 🏅 **Trusted Tester Certification**: Section 508 Accessibility Testing (DHS)
  - ☁️ **Microsoft Certified: Azure Fundamentals** (AZ-900)
- - 📋 **ISTQB Certified Tester** — Foundation Level
- - 💻 **C# with Selenium WebDriver** — Advanced
+ - 📋 **ISTQB Certified Tester**: Foundation Level
+ - 💻 **C# with Selenium WebDriver**: Advanced
 
  ---
 
  ### 📊 GitHub Stats
 
  <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousufwaqar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
- </p>
-
- <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=yousufwaqar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+   <img src="https://streak-stats.demolab.com/?user=yousufwaqar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
  </p>
 
  ---
 
  <p align="center">
-   <i>"Quality is not an act, it is a habit." — Aristotle</i>
+   <i>"Quality is not an act, it is a habit." - Aristotle</i>
  </p>
 
  <p align="center">
