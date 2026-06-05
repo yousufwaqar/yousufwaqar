@@ -16,8 +16,6 @@
 
  <p align="center">
    <img src="https://komarev.com/ghpvc/?username=yousufwaqar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-   <img src="https://img.shields.io/github/followers/yousufwaqar?label=Followers&style=social" alt="GitHub followers" />
-   <img src="https://img.shields.io/github/stars/yousufwaqar?label=Stars&style=social" alt="GitHub stars" />
  </p>
 
  ---
