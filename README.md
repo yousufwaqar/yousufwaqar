@@ -95,19 +95,11 @@
  plus a **public demo-site test pack** (SauceDemo, The Internet, RESTful Booker).
 
  <p align="left">
-   <a href="https://github.com/yousufwaqar/playwright-automation-framework">
-     <img src="https://img.shields.io/github/stars/yousufwaqar/playwright-automation-framework?style=social" alt="Stars" />
+   <a href="https://github.com/yousufwaqar/playwright-automation-framework/actions/workflows/quality-gate.yml">
+     <img src="https://github.com/yousufwaqar/playwright-automation-framework/actions/workflows/quality-gate.yml/badge.svg" alt="Quality Gate" />
    </a>
-   <a href="https://github.com/yousufwaqar/playwright-automation-framework/fork">
-     <img src="https://img.shields.io/github/forks/yousufwaqar/playwright-automation-framework?style=social" alt="Forks" />
-   </a>
-   <a href="https://github.com/yousufwaqar/playwright-automation-framework/issues">
-     <img src="https://img.shields.io/github/issues/yousufwaqar/playwright-automation-framework?color=blue" alt="Issues" />
-   </a>
-   <img src="https://img.shields.io/github/last-commit/yousufwaqar/playwright-automation-framework?color=blue" alt="Last commit" />
-   <img src="https://img.shields.io/github/languages/top/yousufwaqar/playwright-automation-framework?color=3178C6" alt="Top language" />
    <a href="https://github.com/yousufwaqar/playwright-automation-framework/blob/main/LICENSE">
-     <img src="https://img.shields.io/github/license/yousufwaqar/playwright-automation-framework?color=yellow" alt="License" />
+     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" />
    </a>
  </p>
 
@@ -133,16 +125,8 @@
    <a href="https://github.com/yousufwaqar/llm-eval-harness/actions/workflows/eval-ci.yml">
      <img src="https://github.com/yousufwaqar/llm-eval-harness/actions/workflows/eval-ci.yml/badge.svg" alt="eval-ci" />
    </a>
-   <a href="https://github.com/yousufwaqar/llm-eval-harness">
-     <img src="https://img.shields.io/github/stars/yousufwaqar/llm-eval-harness?style=social" alt="Stars" />
-   </a>
-   <a href="https://github.com/yousufwaqar/llm-eval-harness/fork">
-     <img src="https://img.shields.io/github/forks/yousufwaqar/llm-eval-harness?style=social" alt="Forks" />
-   </a>
-   <img src="https://img.shields.io/github/last-commit/yousufwaqar/llm-eval-harness?color=blue" alt="Last commit" />
-   <img src="https://img.shields.io/github/languages/top/yousufwaqar/llm-eval-harness?color=3178C6" alt="Top language" />
    <a href="https://github.com/yousufwaqar/llm-eval-harness/blob/main/LICENSE">
-     <img src="https://img.shields.io/github/license/yousufwaqar/llm-eval-harness?color=yellow" alt="License" />
+     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" />
    </a>
  </p>
 
